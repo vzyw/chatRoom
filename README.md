@@ -4,7 +4,7 @@
 # 使用方法
 ```
 git clone https://github.com/vzyw/chatRoom
-cd chat Room
+cd chatRoom
 javac -d ./ SClient.java SServer.java #编译程序
 java network.SServer #启动服务器
 java network.SClient #在另外一个终端启动客户端
